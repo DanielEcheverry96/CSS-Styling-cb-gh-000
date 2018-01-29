@@ -3,6 +3,11 @@
 /* CSS Syntax:
   property: value;
   property: value;
- */ 
+ */
 
  /* Type selector */
+
+ p{
+   font-size: 1em;
+   line-height: 1.5em;
+ }
